@@ -1,0 +1,6 @@
+to install nmap:    pip install python-nmap
+
+to check if installed :    python -c "import nmap; print('Nmap module found')"
+
+if still there is issues:  python -m pip install --upgrade pip
+                           python -m pip install python-nmap
